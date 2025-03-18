@@ -42,7 +42,7 @@ ol {
 /* #region header vs logo */
 
 .page-header {
-  height: 72px;
+  /* height: 72px; */
   border-bottom: 1px solid #e7e9fc;
   box-shadow: 0 1px 6px 0 rgba(46, 47, 66, 0.08),
     0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 2px 1px 0 rgba(46, 47, 66, 0.08);
@@ -160,7 +160,7 @@ ol {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(/images/fon-office-1.jpg);
+    url(./images/fon-office-1.jpg);
   max-width: 1440px;
   margin: 0 auto;
   background-size: cover;
@@ -516,7 +516,6 @@ ol {
 }
 
 .container-text-foter {
-  text-align: center;
   width: 208px;
 }
 
