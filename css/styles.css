@@ -160,7 +160,7 @@ ol {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(./images/fon-office-1.jpg);
+    url(../images/fon-office-1.jpg);
   max-width: 1440px;
   margin: 0 auto;
   background-size: cover;
